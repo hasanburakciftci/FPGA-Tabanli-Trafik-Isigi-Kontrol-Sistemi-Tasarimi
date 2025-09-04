@@ -4,7 +4,7 @@ FPGA tabanlı **trafik ışığı kontrol sistemi** tasarımı. İçerikte RTL (
 opsiyonel ModelSim/Questa betiği ve simülasyon çıktıları bulunmaktadır.
 
 ## Projenin Amacı
-Bu proje, trafik ışıklarının durumlarını (Kırmızı, Sarı, Yeşil vb.) FPGA üzerinde çalışan bir
+Bu proje, trafik ışıklarının durumlarını (Kırmızı, Sarı, Yeşil) FPGA üzerinde çalışan bir
 **durum makinesi (FSM)** ile kontrol etmeyi amaçlar. Clock üzerinden trafik ışıklarının 
 doğru sırayla yanması sağlanır. 
 
