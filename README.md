@@ -35,7 +35,7 @@ ModelSim/Questa’da simülasyonu başlatmak için:
 vsim -do scripts/run_vcd.do
 
 
-# FPGA-Tabanli-Trafik-Isigi-Kontrol-Sistemi-Tasarimi
+-# FPGA-Tabanli-Trafik-Isigi-Kontrol-Sistemi-Tasarimi
 
 FPGA-based **traffic light control system** design. Includes RTL (`TRI.vhd`), testbench (`tb_TRI.vhd`),
 optional ModelSim/Questa script, and simulation outputs.
