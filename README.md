@@ -44,7 +44,7 @@ FPGA-based **traffic light control system** design. Includes RTL (`TRI.vhd`), te
 optional ModelSim/Questa script, and simulation outputs.
 
 ## Project Purpose
-This project aims to control the states of traffic lights (Red, Yellow, Green, etc.) using a 
+This project aims to control the states of traffic lights (Red, Yellow, Green) using a 
 **finite state machine (FSM)** implemented on FPGA. The lights are activated in the correct sequence 
 according to the clock signal.
 
@@ -62,7 +62,7 @@ according to the clock signal.
 ## Simulation
 Waveforms and VCD output are located in the Waves folder:
 
-![TRI waveform](waves/TRI_sim.png)
+![TRI waveform](Waves/TRI_sim.png)
 
 > **Note:** The VCD file is stored inside `waves/traffic_full.zip`. Extract it to view with 
 tools such as ModelSim or GTKWave.
