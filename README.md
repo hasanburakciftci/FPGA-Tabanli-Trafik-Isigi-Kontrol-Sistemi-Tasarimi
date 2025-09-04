@@ -8,6 +8,8 @@ Bu proje, trafik ışıklarının durumlarını (Kırmızı, Sarı, Yeşil) FPGA
 **durum makinesi (FSM)** ile kontrol etmeyi amaçlar. Clock üzerinden trafik ışıklarının 
 doğru sırayla yanması sağlanır. 
 
+**Not:** Işıkların hangi sırayla yandığı ve süreleri `docs/FST_Vize_20247020.docx` dosyasında ayrıntılı olarak anlatılmaktadır.
+ 
 ## Yapı
 - `rtl/TRI.vhd` — Trafik ışığı kontrolcüsü (FSM tasarımı)
 - `tb/tb_TRI.vhd` — Testbench (üst entity: `tb_TRI`)
