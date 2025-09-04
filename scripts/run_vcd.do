@@ -7,7 +7,7 @@ vcom -2008 tb/tb_TRI.vhd
 vsim -voptargs=+acc work.tb_TRI -t ns
 
 # VCD
-vcd file waves/traffic.vcd
+vcd file waves/traffic_full.zip/traffic_full.vcd
 # İstersen daralt: vcd add /tb_TRI/KI /tb_TRI/DI /tb_TRI/GI /tb_TRI/BI /tb_TRI/Clk
 vcd add -r /tb_TRI/*
 
