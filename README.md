@@ -19,7 +19,7 @@ doğru sırayla yanması sağlanır.
 ## Simülasyon
 Dalga şekli ve VCD çıktısı Waves klasöründedir:
 
--![TRI dalga şekli](waves/TRI_sim.png)
+![TRI dalga şekli](Waves/TRI_sim.png)
 
 > **Not:** VCD dosyası `waves/traffic_full.zip` içinde yer almaktadır. Çıkartarak ModelSim/GTKWave gibi araçlarla açabilirsiniz.
 
