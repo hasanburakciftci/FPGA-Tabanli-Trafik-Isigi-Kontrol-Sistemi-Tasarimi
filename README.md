@@ -33,9 +33,12 @@ Dalga şekli ve VCD çıktısı Waves klasöründedir:
 ModelSim/Questa’da simülasyonu başlatmak için:
 ```tcl
 vsim -do scripts/run_vcd.do
+```
+--------------------------------------------------------------------------------------------------------
 
+## 🇬🇧 English
 
--# FPGA-Tabanli-Trafik-Isigi-Kontrol-Sistemi-Tasarimi
+# FPGA-based Traffic Light Control System
 
 FPGA-based **traffic light control system** design. Includes RTL (`TRI.vhd`), testbench (`tb_TRI.vhd`),
 optional ModelSim/Questa script, and simulation outputs.
