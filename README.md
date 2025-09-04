@@ -19,5 +19,5 @@ Bu komut `waves/traffic.vcd` üretecek şekilde simülasyonu başlatır (dosya a
 ## Notlar
 - VCD dosyaları büyük olabileceği için `waves/` gitignore kapsamındadır. Paylaşmak için istisnaen ekleyebilirsiniz.
 
--![TRI dalga şekli](waves/TRI_sim.png)
+-![TRI dalga şekli](Waves/TRI_sim.png)
 
