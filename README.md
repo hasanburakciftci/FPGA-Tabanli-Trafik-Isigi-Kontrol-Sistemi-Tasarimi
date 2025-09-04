@@ -1,3 +1,7 @@
+## Languages
+[TR](#-türkçe) | [EN](#-english)
+
+## 🇹🇷 Türkçe
 # FPGA Tabanlı Trafik Işığı Kontrol Sistemi Tasarımı
 
 FPGA tabanlı **trafik ışığı kontrol sistemi** tasarımı. İçerikte RTL (`TRI.vhd`), testbench (`tb_TRI.vhd`),
