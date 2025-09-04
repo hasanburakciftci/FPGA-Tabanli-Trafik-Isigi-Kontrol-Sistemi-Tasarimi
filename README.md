@@ -1,4 +1,4 @@
-# FPGA-Tabanli-Trafik-Isigi-Kontrol-Sistemi-Tasarimi
+# FPGA Tabanlı Trafik Işığı Kontrol Sistemi Tasarımı
 
 FPGA tabanlı **trafik ışığı kontrol sistemi** tasarımı. İçerikte RTL (`TRI.vhd`), testbench (`tb_TRI.vhd`),
 opsiyonel ModelSim/Questa betiği ve simülasyon çıktıları bulunmaktadır.
